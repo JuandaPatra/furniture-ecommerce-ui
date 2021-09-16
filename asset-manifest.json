@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/furniture-ecommerce-ui/static/css/main.273a925e.chunk.css",
+    "main.js": "/furniture-ecommerce-ui/static/js/main.53a1b2b4.chunk.js",
+    "main.js.map": "/furniture-ecommerce-ui/static/js/main.53a1b2b4.chunk.js.map",
+    "runtime-main.js": "/furniture-ecommerce-ui/static/js/runtime-main.6bfb264a.js",
+    "runtime-main.js.map": "/furniture-ecommerce-ui/static/js/runtime-main.6bfb264a.js.map",
+    "static/css/2.818011ed.chunk.css": "/furniture-ecommerce-ui/static/css/2.818011ed.chunk.css",
+    "static/js/2.8ac60221.chunk.js": "/furniture-ecommerce-ui/static/js/2.8ac60221.chunk.js",
+    "static/js/2.8ac60221.chunk.js.map": "/furniture-ecommerce-ui/static/js/2.8ac60221.chunk.js.map",
+    "index.html": "/furniture-ecommerce-ui/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/furniture-ecommerce-ui/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.273a925e.chunk.css.map": "/furniture-ecommerce-ui/static/css/main.273a925e.chunk.css.map",
+    "static/js/2.8ac60221.chunk.js.LICENSE.txt": "/furniture-ecommerce-ui/static/js/2.8ac60221.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bfb264a.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.8ac60221.chunk.js",
+    "static/css/main.273a925e.chunk.css",
+    "static/js/main.53a1b2b4.chunk.js"
+  ]
+}
